@@ -46,7 +46,7 @@ You will need the data which you can get using the `video_game_classify.ipynb`
 * [Python3](https://www.python.org/about/) - The programming language used
 * [Keras](https://keras.io/) - Keras: A high-level neural networks API running TensorFlow
 
-*[ytvid-to-jpg](https://github.com/GuruShiva/ytvid-to-jpg) - YTVID-TO-JPG: A custom python script that downloads Youtube video based on queries and converts it images.
+* [ytvid-to-jpg](https://github.com/GuruShiva/ytvid-to-jpg) - YTVID-TO-JPG: A custom python script that downloads Youtube video based on queries and converts it images.
 
 ## Known Bugs
 
