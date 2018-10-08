@@ -1,7 +1,7 @@
 # Classify This Video Game!
 
 
-This project was created for #SchoolofAIVancouver Image Classification Code Challenge 2. This image classification code tries to classify paintings into 3 classes:
+This project was created for #SchoolofAIVancouver Image Classification Code Challenge 2. This image classification code tries to classify video games into 3 classes:
 
 * First Person Shooter(FPS)
 
