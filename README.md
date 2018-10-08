@@ -27,7 +27,8 @@ You can clone the repo to retrain and test the model. However please not that th
 
 The `video_game_classify.ipynb` model training and classfiying screenshot
 
-* Model Training and Classifying 
+* Model Training and Classifying
+![modeltrain](/images/model_train.jpg "modeltrain") 
 
 ### Prerequisites
 
