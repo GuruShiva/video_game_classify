@@ -50,7 +50,7 @@ You will need the data which you can get using the `video_game_classify.ipynb`
 
 ## Known Bugs
 
-There are *No* known bugs in the `video_game_classify.ipynb`
+There are *No* known bugs in the `video_game_classify.ipynb` at this moment.
 
 
 ## Disclaimer
@@ -75,4 +75,5 @@ This project is licensed under the MIT License
 * [Johannes Harmse](https://github.com/johannesharmse)- SchoolofAIVancouver
 * [Xinbin Haung](https://github.com/xinbinhuang)- SchoolofAIVancouver
 * [Billie Thompson](https://github.com/PurpleBooth)- For this amazing README.md template
+* SchoolofAIVancouver
 * The Internet 
