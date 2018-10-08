@@ -23,6 +23,8 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 You can clone the repo to retrain and test the model. However please not that there arent any 'train', 'validate' or 'test' data in this repo. It has been removed to avoid uploading all the images to git.
 
+Look at the 'ytvid-to-jpg' script to help with the data scraping
+
 
 
 The `video_game_classify.ipynb` model training and classfiying screenshot
@@ -43,6 +45,8 @@ You will need the data which you can get using the `video_game_classify.ipynb`
 * [Google Colaboratory](https://collab.research.google,com)- Free Jupyter notebook enviroment hosted in the cloud. Developed by Google.
 * [Python3](https://www.python.org/about/) - The programming language used
 * [Keras](https://keras.io/) - Keras: A high-level neural networks API running TensorFlow
+
+*[ytvid-to-jpg](https://github.com/GuruShiva/ytvid-to-jpg) - YTVID-TO-JPG: A custom python script that downloads Youtube video based on queries and converts it images.
 
 ## Known Bugs
 
